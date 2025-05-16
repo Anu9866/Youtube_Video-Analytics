@@ -1,0 +1,4 @@
+title,channel_title,category_id,publish_time,tags,views,likes,dislikes,comment_count,country,trending_date,title_sentiment,sentiment_label
+How to cook pasta,Tasty,26,2021-09-01T12:00:00Z,cooking|easy|recipe,1500000,120000,1500,9000,US,2021-09-03,0.45,Positive
+Top 10 Bollywood Songs,Sony Music India,10,2021-08-20T10:00:00Z,music|bollywood|hits,2300000,210000,1200,11000,IN,2021-08-22,0.3,Positive
+iPhone 13 Review,Unbox Therapy,28,2021-09-05T18:00:00Z,iphone|tech|review,4000000,350000,1800,15000,US,2021-09-06,0.6,Positive
